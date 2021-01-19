@@ -127,6 +127,10 @@ li {
     color: black;
 }
 
+.class-to-left {
+  left: 10px;
+}
+
 
 @media (min-width: 768px) {
   .cards {
